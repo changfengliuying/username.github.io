@@ -144,7 +144,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘
 <body>
 
 <div class="container">
-  <div class="header"><!-- end .header --><a href="#"></a><a href="#"><img src="History Banner.jpg" width="959" height="250" /></a></div>
+  <div class="header"><!-- end .header --><a href="#"></a><a href="#"><img src="images/History Banner.jpg" width="959" height="250" /></a></div>
   <div class="sidebar1">
     <ul class="nav">
       <li>
@@ -165,7 +165,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘
   <div class="content"><!-- end .content -->
     <h2 align="center">Welcome to my Academic Information website!</h2>
     <p>&nbsp;</p>
-    <p><img src="Me.jpg" width="223" height="223" /><br />
+    <p><img src="images/Me.jpg" width="223" height="223" /><br />
 </p>
     <p><strong>Briefing</strong><br />
     Born in Quanzhou city, Fujian Province (the southeast part of China) Hong Kong Resident.<br />
@@ -174,16 +174,16 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘
     </p>
     <p><strong>Downloads    </strong></p>
     <p>CV </p>
-    <p>(<a href="Rocky-PhD History-CV-2019.pdf">Rocky-PhD History-CV-2019.pdf</a>)</p>
+    <p>(<a href="pdfs/Rocky-PhD History-CV-2019.pdf">Rocky-PhD History-CV-2019.pdf</a>)</p>
     <p>&nbsp;</p>
     <p>Research proposal</p>
-    <p> (<a href="Rocky-PhD History-Research Proposal-2019.pdf">Rocky-PhD History-Research Proposal-2019.pdf</a>)</p>
+    <p> (<a href="pdfs/Rocky-PhD History-Research Proposal-2019.pdf">Rocky-PhD History-Research Proposal-2019.pdf</a>)</p>
     <p>&nbsp;</p>
     <p>Dissertation</p>
-    <p> (<a href="Rocky-PhD History-MA Dissertation-2019.pdf">Rocky-PhD History-MA Dissertation-2019.pdf</a>)</p>
+    <p> (<a href="pdfs/Rocky-PhD History-MA Dissertation-2019.pdf">Rocky-PhD History-MA Dissertation-2019.pdf</a>)</p>
     <p>&nbsp;</p>
     <p>Writing Sample</p>
-    <p> (<a href="Rocky-PhD History-Writing Sample-2019.pdf">Rocky-PhD History-Writing Sample-2019.pdf</a>)</p>
+    <p> (<a href="pdfs/Rocky-PhD History-Writing Sample-2019.pdf">Rocky-PhD History-Writing Sample-2019.pdf</a>)</p>
     <p>&nbsp;</p>
     <p>Thank you for your time!  </p>
   </div>
