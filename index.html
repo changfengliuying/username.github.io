@@ -184,7 +184,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘
     <p>&nbsp;</p>
     <p>Writing Sample</p>
     <p> (<a href="Rocky-PhD History-Writing Sample-2019.pdf">Rocky-PhD History-Writing Sample-2019.pdf</a>)</p>
-    <p>(The Summary of My Writing Sample.pdf) to save your time^^</p>
+    <p>(<a href="The Summary of My Writing Sample.pdf">The Summary of My Writing Sample.pdf</a>) ^^</p>
     <p>&nbsp;</p>
     <p>Thank you for your time!  </p>
   </div>
