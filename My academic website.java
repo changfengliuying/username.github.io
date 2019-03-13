@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>无标题文档</title>
+<title>Welcome</title>
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
@@ -184,6 +184,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘
     <p>&nbsp;</p>
     <p>Writing Sample</p>
     <p> (<a href="Rocky-PhD History-Writing Sample-2019.pdf">Rocky-PhD History-Writing Sample-2019.pdf</a>)</p>
+    <p>(The Summary of My Writing Sample.pdf) to save your time^^</p>
     <p>&nbsp;</p>
     <p>Thank you for your time!  </p>
   </div>
